@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Smart Cities",
+      "subTitle": "Here we go again",
+      "image": "/images/night.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Download your programmes to watch on the go.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "/images/smart-water.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Green Technology",
+      "subTitle": "The recent spike in the adoption of green energy worldwide is expected to heavily boost the IoT market for smart cities.",
+      "image": "/images/water.jpg"
+    }
+  ]
+  
