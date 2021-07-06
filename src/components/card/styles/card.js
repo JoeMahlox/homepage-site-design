@@ -12,7 +12,7 @@ export const Body = styled.div`
   cursor: pointer;
   margin: 30px 30px;
   border-radius: 25px;
-  transition: all 0.4s ease-in-out;
+  transition: all 0.5s ease-in-out;
   //background-color: black;
   background: url(images/blue-light-trails.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
